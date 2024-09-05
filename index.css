@@ -1,0 +1,28 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #0f172a;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #f8fafc;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 24px;
+  text-align: center;
+}
+.team-img-container {
+  display: flex;
+}
+.rcb {
+  height: 200px;
+  width: 200px;
+}
+.csk {
+  height: 200px;
+  width: 200px;
+}
